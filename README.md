@@ -1,5 +1,5 @@
 # Literalura for ONE (Oracle Next Education) Program  
-![Insignia Alura](./img/insignia_alura.png)
+![Insignia Alura](./assets/badge_literalura.png)
 
 Este proyecto es parte del programa [Oracle Next Education (ONE)](https://www.oracle.com/lad/education/oracle-next-education/), cuyo objetivo es desarrollar habilidades en programación y tecnologías modernas. **OneLiteralura** es un backend en Spring Boot que está disponible a través de una interfaz de línea de comandos (CLI) y permite interactuar con una API para gestionar datos de libros y autores.
 
@@ -24,6 +24,11 @@ Este proyecto puede ser la base para futuras integraciones con bases de datos o 
 3. **API REST**:  
    - Expuesta en el puerto 8080 para consultas HTTP.  
 
-## Autor
+## Cómo Ejecutar el Proyecto  
+1. **Clonar el repositorio**:  
+   ```bash
+   git clone https://github.com/CharlyCS/Literalura_ONE
+   cd oneliteralura
 
+## Autor
 Carlos Coronel Silvestre - [LinkedIn](https://www.linkedin.com/in/carlos-coronel-silvestre-7645921b9/)
